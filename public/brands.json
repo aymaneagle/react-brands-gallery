@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Apple",
+    "description": "An innovative tech company famous for iPhones, iPads, and MacBooks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"
+  },
+  {
+    "id": 2,
+    "title": "Samsung",
+    "description": "A multinational conglomerate producing electronics and home appliances.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Samsung_Logo.svg"
+  },
+  {
+    "id": 3,
+    "title": "Nike",
+    "description": "A global leader in athletic footwear, apparel, and equipment.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg"
+  },
+  {
+    "id": 4,
+    "title": "Adidas",
+    "description": "A global sportswear brand offering shoes, apparel, and accessories.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Adidas_Logo.svg"
+  },
+  {
+    "id": 5,
+    "title": "Microsoft",
+    "description": "A technology company known for Windows, Office, Xbox, and cloud services.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg"
+  },
+  {
+    "id": 6,
+    "title": "Sony",
+    "description": "A multinational electronics and entertainment company.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_logo.svg"
+  },
+  {
+    "id": 7,
+    "title": "Canon",
+    "description": "A leading brand in cameras, imaging, and optical products.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Canon_wordmark.svg"
+  },
+  {
+    "id": 8,
+    "title": "GoPro",
+    "description": "A popular brand for action cameras and adventure filming technology.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/GoPro_logo.svg"
+  },
+  {
+    "id": 9,
+    "title": "DJI",
+    "description": "A leading company in drone technology and aerial photography devices.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/DJI_logo.svg"
+  },
+  {
+    "id": 10,
+    "title": "Xiaomi",
+
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Xiaomi_logo.svg"
+  }
+]
