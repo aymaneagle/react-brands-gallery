@@ -1,12 +1,11 @@
-# React + Vite
+# react-brands-gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A mini React e-commerce project where users can browse their favorite brands, view brand details, and interact with a responsive UI.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Browse a list of brands with images, titles, and short descriptions.
+- Click on a brand to see detailed information on a dedicated page.
+- Responsive UI using Tailwind CSS and DaisyUI.
+- Routing with React Router DOM for seamless navigation.
+- Data fetching with Axios from a JSON file.
